@@ -1,7 +1,7 @@
 package inheritanceEx;
 
 
-    class Parent1 {
+    class ParentOne {
         private String name = "srinivas";
         String surname = "kashigari";
 
@@ -18,7 +18,7 @@ package inheritanceEx;
         }
     }
 
-    class Child1 extends Parent1 {
+    class ChildOne extends ParentOne {
         String cname = "gayathri";
         String surname = "kashigari";
 
@@ -37,7 +37,7 @@ package inheritanceEx;
     public class SingleInheritanceEx2 {
 	
 		    public static void main(String[] args) {
-		        Child1 c = new Child1();
+		        ChildOne c = new ChildOne();
 		        c.displayChild();
 		        c.msg();
 		    
