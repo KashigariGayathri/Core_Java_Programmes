@@ -1,0 +1,1 @@
+aBC...Hello Everyone...Java Full Stack...Java provides I/O Streams to read and write data where, a Stream represents an input source or an output destination which could be a file, i/o device, other program etc. InputStream − This is used to read (sequential) data from a source
