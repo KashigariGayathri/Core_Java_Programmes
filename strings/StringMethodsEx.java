@@ -48,7 +48,7 @@ public class StringMethodsEx {
     		
         String str9 = " ";//here space is provide
         System.out.println("Length:" + str9.length());
-        System.out.println("is String is empty: " + str9.isEmpty());//returns boolean value true
+        System.out.println("is String is empty: " + str9.isEmpty());//returns boolean value false
         System.out.println("is String is blank: " + str9.isBlank());//returns boolean value true
 	}
 

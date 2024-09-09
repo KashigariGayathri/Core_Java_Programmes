@@ -14,7 +14,7 @@ public class PatternEx5 {
      {
         for (int j = 0; j <= i; j++)
         {
-           System.out.print((char) alphabet + " ");
+           System.out.print((char)alphabet + " ");
         }
         alphabet++;
          System.out.println();
